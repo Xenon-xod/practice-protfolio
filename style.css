@@ -47,3 +47,19 @@ section{
 #god-pic{
     margin-right: 10%;
 }
+.man-c{
+    text-decoration: none;
+    background-image: linear-gradient(cyan,cyan);
+    padding: 10px 30px;
+    color: white;
+    font-weight: 700;
+    border-radius: 8px;
+}
+.man-utd{
+    text-decoration: none;
+    background-image: linear-gradient(red,red);
+    padding: 10px 30px;
+    color: white;
+    font-weight: 700;
+    border-radius: 8px;
+}
