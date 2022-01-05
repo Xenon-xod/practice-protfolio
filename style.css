@@ -4,10 +4,10 @@ body{
 
 }
 h1{
-    font-size: 60px;
+    font-size: 40px;
 }
 h2{
-   font-size: 50px;
+   font-size: 30px;
 }
 .name{
     color: darkorange;
@@ -23,6 +23,7 @@ section{
     width: 80%;
     margin: 10%;
 }
+
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(green,cyan);
@@ -34,4 +35,15 @@ section{
 .top-banner{
     background-image: url(Image/top-banner.png);
     background-repeat: no-repeat;
+}
+#mid-banner{
+    background-image: url(Image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.back-color{
+ background-color: cadetblue;
+}
+#god-pic{
+    margin-right: 10%;
 }
