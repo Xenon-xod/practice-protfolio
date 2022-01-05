@@ -4,29 +4,24 @@ body{
 
 }
 h1{
-    font-size: 40px;
+    font-size: 60px;
 }
 h2{
-   font-size: 30px;
+   font-size: 50px;
 }
 .name{
     color: darkorange;
 }
-.first-div{
+section{
     display: flex;
+}
+.first-div{
     width: 50%;
     padding-left: 30px;
-
 }
-.first-div img {
-    width: 150%;
-    padding: 20px 40px;
-}
-.link-edit{
-    background-color: indianred;
-    width: 100% ;
-    padding-right: 10px;
-    
+.first-div img{
+    width: 80%;
+    margin: 10%;
 }
 .link-button{
     text-decoration: none;
